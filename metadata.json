@@ -1,0 +1,5 @@
+{
+  "name": "ShortURL Clone",
+  "description": "A URL shortener application built with React, TailwindCSS, TanStack Query, and Supabase.",
+  "requestFramePermissions": []
+}
